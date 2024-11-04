@@ -1,0 +1,20 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+h2,
+h3,
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  background-color: rgb(245, 217, 242);
+  width: 300px;
+  border: 15px solid teal;
+  padding: 50px;
+  margin: 20px;
+}
+.box {
+  color: orange;
+  font-family: Arial, Helvetica, sans-serif;
+}
